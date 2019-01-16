@@ -1,0 +1,63 @@
+{
+  "_from": "meipian-wx-common",
+  "_id": "meipian-wx-common@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-XPM35UBtcfwRBqCYT1e3quvi1+UHkcL/6tC+YXikVxc0y+2xC+YL/F/4e6rNn2aN3g6necXHiH/MIDSV6l76ZA==",
+  "_location": "/meipian-wx-common",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "meipian-wx-common",
+    "name": "meipian-wx-common",
+    "escapedName": "meipian-wx-common",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://npmjs.meipian.me/meipian-wx-common/-/meipian-wx-common-1.0.2.tgz",
+  "_shasum": "69a46e9ba16865d4f16f79746c6749dfae1549a0",
+  "_spec": "meipian-wx-common",
+  "_where": "/Users/albanjin/jin/myWedding",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "微信常用方法 微信config 微信分享 主要方法: getQueryString,formatThousandNumber,formatOmitNickname, formatDate,filterConfig,joinParams,isWX,isQQBrowser,isAPP,isAND,isIOS,isPC,isMINA,isWXwork,wxConfig",
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  },
+  "keywords": [
+    "微信常用方法",
+    "微信config",
+    "微信分享",
+    "getQueryString",
+    "formatThousandNumber",
+    "formatOmitNickname",
+    "formatDate",
+    "filterConfig",
+    "joinParams",
+    "isWX",
+    "isQQBrowser",
+    "isAPP",
+    "isAND",
+    "isIOS",
+    "isPC",
+    "isMINA",
+    "isWXwork",
+    "wxConfig"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "meipian-wx-common",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
