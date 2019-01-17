@@ -9,12 +9,12 @@ albanjin's
 
 #### 安装教程
 
-1. npm i -S meipian-wx-common
+1. npm i -S company-wx-common
 
 
 #### 使用说明
 
-1. import {tool} form 'meipian-wx-common'
+1. import {tool} form 'company-wx-common'
 2. 提供的方法
 ```
    1.tool.wxConfig({{ // 微信配置

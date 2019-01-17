@@ -101,7 +101,6 @@ export function getMeipianVersion() {
 /**
  * Get view origin 
  * @return {String} Business custom source
- * 'APPVIEW': meipian APP 
  * 'AUDIT': audit view
  * 'MINAAPP': mina template view
  * 'CIRCLE': circle template view 
